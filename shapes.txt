@@ -1,1 +1,5 @@
 a file for shapes
+circle
+oval
+rectangle
+square
