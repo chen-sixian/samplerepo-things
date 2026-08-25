@@ -2,3 +2,4 @@ a file for colours
 blue
 red
 white
+purple
